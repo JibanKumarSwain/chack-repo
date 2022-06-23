@@ -1,4 +1,0 @@
-# good part
-
-
-not good
